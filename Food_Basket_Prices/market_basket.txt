@@ -1,0 +1,37 @@
+		Alice Springs 	Darwin		East Arnhem	Katherine	
+		HFB	CDB	HFB	CDB	HFB	CDB	HFB	CDB
+Bread & cereals								
+Supermarket	$76	$73	$81	$79	$60	$60	$84	$84
+Corner store	$107	$100	$82	$69	$61	$61	$114	$111
+Remote stores	$110	$102	$114	$104	$118	$108	$107	$100
+Fruit								
+Supermarket	$77	$58	$82	$62	$90	$68	$87	$67
+Corner store	$114	$88	$132	$105	$91	$68	$159	$121
+Remote stores	$147	$114	$147	$113	$146	$114	$149	$115
+Vegetables								
+Supermarket	$133	$42	$111	$35	$150	$45	$129	$38
+Corner store	$153	$50	$175	$56	$150	$45	$182	$57
+Remote stores	$178	$58	$164	$54	$151	$47	$184	$59
+Meat & alternative								
+Supermarket	$126	$129	$124	$148	$176	$130	$136	$135
+Corner store	$207	$184	$200	$192	$177	$131	$249	$240
+Remote stores	$213	$219	$216	$217	$263	$231	$228	$223
+Dairy								
+Supermarket	$102	$51	$104	$52	$84	$44	$104	$53
+Corner store	$142	$75	$153	$76	$85	$45	$187	$97
+Remote stores	$174	$91	$175	$92	$190	$104	$177	$94
+Takeaway								
+Supermarket	$4	$192	$5	$247	$2	$259	$4	$251
+Corner store	$5	$214	$3	$247	$2	$259	$6	$259
+Remote stores	$3	$232	$3	$246	$2	$269	$3	$253
+Other foods								
+Supermarket	$12	$48	$11	$49	$7	$55	$8	$47
+Corner store	$9	$59	$11	$67	$8	$56	$10	$74
+Remote stores	$15	$82	$14	$83	$19	$82	$13	$81
+Total basket								
+Supermarket	$530	$593	$517	$672	$569	$661	$552	$676
+Corner store	$736	$770	$757	$811	$569	$661	$907	$959
+Remote stores	$840	$897	$832	$910	$888	$954	$863	$925
+Remote store % difference from:								
+Supermarket	58%	51%	61%	35%	56%	44%	56%	37%
+Corner store	14%	17%	10%	11%			-5%	-4%

@@ -1,0 +1,6 @@
+		Alice Springs 	Darwin		East Arnhem	Katherine	
+		HFB	CDB	HFB	CDB	HFB	CDB	HFB	CDB
+Bread & cereals								
+Supermarket	$76	$73	$81	$79	$60	$60	$84	$84
+Corner store	$107	$100	$82	$69	$61	$61	$114	$111
+Remote stores	$110	$102	$114	$104	$118	$108	$107	$100
