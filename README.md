@@ -3,3 +3,4 @@
 * Classification folder: Bank-campaigns (phone calls): Predict if the client will subscribe a long term deposit.
 * Classification/regression folder: Wine_Red: Predict wine quality by regression/classification.
 * Regression folder: Regression_project: Prediction of charge insurance
+* Classification folder: Olympic_score folder: Neural network model architecture CNN + LSTM to predict gym exercise olympic score
